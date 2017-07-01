@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ghulamustafa.Helpers.mUtility</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Ghulam Mustafa</authors>
+    <owners>Ghulam Mustafa</owners>
+    <licenseUrl>http://iam.ghulamustafa.com</licenseUrl>
+    <projectUrl>http://iam.ghulamustafa.com</projectUrl>
+    <iconUrl>http://iam.ghulamustafa.com</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is a utility class for alerts, stored procedure calls and FCM</description>
+    <releaseNotes>This is the first release.</releaseNotes>
+    <copyright>Copyright ghulamustafa 2017</copyright>
+    <tags>Twitter: @ghulamostafa</tags>
+  </metadata>
+</package>
